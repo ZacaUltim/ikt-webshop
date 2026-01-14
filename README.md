@@ -1,3 +1,0 @@
-# ikt-webshop
-
-horgaszbolt
